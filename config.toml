@@ -1,4 +1,4 @@
-baseurl = "http://seville-jam.es"
+baseurl = "http://seville-jam.es/"
 languageCode = "en-us"
 title = "Seville Jenkins Area Meetup"
 theme = "vienna"
