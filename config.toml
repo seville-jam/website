@@ -1,4 +1,9 @@
 baseurl = "http://seville-jam.es/"
 languageCode = "en-us"
-title = "Seville Jenkins Area Meetup"
-theme = "vienna"
+theme = "lanyon-hugo"
+
+[params]
+  Title = "Seville Jenkins Area Meetup"
+  #Tagline = "A Jekyll theme"
+  Author = "Mark Otto"
+  DateForm = "Jan 2 2006"
