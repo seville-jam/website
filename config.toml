@@ -1,9 +1,13 @@
-baseurl = "http://seville-jam.es/"
+baseurl = "http://192.168.1.39:1313/"
 languageCode = "en-us"
 theme = "lanyon-hugo"
 
 [params]
   Title = "Seville Jenkins Area Meetup"
   #Tagline = "A Jekyll theme"
-  Author = "Mark Otto"
+  Author = "Manuel Recena Soto"
   DateForm = "Jan 2 2006"
+
+#[permalinks]
+#  post = ":title/"
+#  fixed = ":title/"
