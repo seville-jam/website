@@ -9,19 +9,19 @@ Esta primera edición tendrá lugar el próximo **21 de enero de 2016** de 17:30
 
 == Agenda
 
-Presentación de esta iniciativa:: a
-Workflow:: Presentado por Antonio Manuel Muñiz
-Jenkins y GitHub:: Presentado por Manuel Recena Soto
-Jenkins y kubernetes:: Presentado por Carlos Sánchez
+Presentación de esta iniciativa::
+Workflow:: Presentado por http://amunizmartin.com[Antonio Manuel Muñiz]
+Jenkins y GitHub:: Presentado por http://manuelrecena.com[Manuel Recena Soto]
+Jenkins y kubernetes:: Presentado por http://blog.csanchez.org[Carlos Sánchez]
 
 == Entradas
 
-Por motivos logísticos el número de plazas está limitado a 40. El evento es **gratuito** y puedes reservar tu entrada aquí.
+Por motivos logísticos el número de plazas está limitado a 40. El evento es **gratuito** y puedes reservar tu entrada https://www.koliseo.com/recena/sevilla-jam[aquí].
 
 == Sitio
 
 ----
 Espacio RES
-República Argentina 25, Planta 9ª
+Avenida República Argentina 25, Planta 9ª
 Sevilla (España)
 ----
