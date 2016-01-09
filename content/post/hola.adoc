@@ -9,7 +9,6 @@ Esta primera edición tendrá lugar el próximo **21 de enero de 2016** de 17:30
 
 == Agenda
 
-Presentación de esta iniciativa::
 Workflow:: Presentado por http://amunizmartin.com[Antonio Manuel Muñiz]
 Jenkins y GitHub:: Presentado por http://manuelrecena.com[Manuel Recena Soto]
 Jenkins y kubernetes:: Presentado por http://blog.csanchez.org[Carlos Sánchez]
