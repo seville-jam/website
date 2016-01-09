@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    {{ partial "sidebar.html" . }}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <a href="/" title="{{ .Site.Params.Title }}"><img class="masthead-title" src="/assets/Seville-JAM_logo_text.png"></a>
+        </div>
+      </div>
+
+      <div class="container content">
