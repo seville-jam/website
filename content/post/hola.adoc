@@ -11,6 +11,7 @@ Esta primera edición tendrá lugar el próximo **21 de enero de 2016** de 17:30
 
 Workflow:: Presentado por http://amunizmartin.com[Antonio Manuel Muñiz]
 Jenkins y GitHub:: Presentado por http://manuelrecena.com[Manuel Recena Soto]
+Infraestructura de Testing:: Presentado por http://blog.derquinse.net[Andrés Rodríguez]
 Jenkins y kubernetes:: Presentado por http://blog.csanchez.org[Carlos Sánchez]
 
 == Entradas
