@@ -1,0 +1,20 @@
++++
+date = "2016-01-24T13:28:28+01:00"
+title = "Sobre la primera edición"
++++
+
+Han pasado algunos días tras la primera edición de Seville JAM y sólo podemos decir que fue un placer organizar esta primera edición.
+
+Nos gustaría dar las gracias a los participantes y asistentes que supieron crear un ambiente genial. Especial agradecimiento a Emilio por su ayuda en la organización, a Carlos por desplazarse desde Galicia y Pilar (de Espacio_RES) por su atención.
+
+Durante este primer encuentro se plantearon dos talleres para posibles ediciones, uno sobre Pipeline y otro sobre testing. Comenzaremos a darle forma en breve.
+
+== Información de interés
+
+Presentación de Seville JAM:: Presentado por http://manuelrecena.com[Manuel Recena Soto]. Presentación[https://docs.google.com/presentation/d/1f5Otkz9ymqyXEEuUqzQcTT5UkGHjuIx_j8GelWWYBwo/edit?usp=sharing]
+Jenkins y kubernetes:: Presentado por http://blog.csanchez.org[Carlos Sánchez].
+Pipeline:: Presentado por http://amunizmartin.com[Antonio Manuel Muñiz]
+Jenkins y GitHub:: Presentado por http://manuelrecena.com[Manuel Recena Soto]. Presentación[https://docs.google.com/presentation/d/13nNSBHQA5Ao9Vj4kb8fJJtaKMso2ey7ouZZOLv2CqCI/edit?usp=sharing].
+Infraestructura de Testing:: Presentado por http://blog.derquinse.net[Andrés Rodríguez].
+
+Albúm de fotografías[https://goo.gl/photos/up1s3tZuxV2YTm6W8].
