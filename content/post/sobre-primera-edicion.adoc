@@ -12,7 +12,7 @@ Durante este primer encuentro se plantearon dos talleres para futuras ediciones,
 == Material footnote:[Pendiente de incluir algunos enlaces]
 
 Presentación de Seville JAM:: Presentado por http://manuelrecena.com[Manuel Recena Soto]. https://docs.google.com/presentation/d/1f5Otkz9ymqyXEEuUqzQcTT5UkGHjuIx_j8GelWWYBwo/edit?usp=sharing[Presentación].
-Jenkins y kubernetes:: Presentado por http://blog.csanchez.org[Carlos Sánchez].
+Jenkins, Docker y Kubernetes:: Presentado por http://blog.csanchez.org[Carlos Sánchez]. http://www.slideshare.net/carlossg/scaling-jenkins-with-docker-and-kubernetes-57432122[Presentación]
 Pipeline:: Presentado por http://amunizmartin.com[Antonio Manuel Muñiz]
 Jenkins y GitHub:: Presentado por http://manuelrecena.com[Manuel Recena Soto]. https://docs.google.com/presentation/d/13nNSBHQA5Ao9Vj4kb8fJJtaKMso2ey7ouZZOLv2CqCI/edit?usp=sharing[Presentación].
 Infraestructura de Testing:: Presentado por http://blog.derquinse.net[Andrés Rodríguez]. https://docs.google.com/presentation/d/109tZhjO1CuVx0aTpQUtv2i9VVj6K52S8r0VWQYqOlyM/edit?usp=sharing[Presentación].
