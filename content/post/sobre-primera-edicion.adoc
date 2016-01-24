@@ -15,6 +15,6 @@ Presentación de Seville JAM:: Presentado por http://manuelrecena.com[Manuel Rec
 Jenkins y kubernetes:: Presentado por http://blog.csanchez.org[Carlos Sánchez].
 Pipeline:: Presentado por http://amunizmartin.com[Antonio Manuel Muñiz]
 Jenkins y GitHub:: Presentado por http://manuelrecena.com[Manuel Recena Soto]. https://docs.google.com/presentation/d/13nNSBHQA5Ao9Vj4kb8fJJtaKMso2ey7ouZZOLv2CqCI/edit?usp=sharing[Presentación].
-Infraestructura de Testing:: Presentado por http://blog.derquinse.net[Andrés Rodríguez].
+Infraestructura de Testing:: Presentado por http://blog.derquinse.net[Andrés Rodríguez]. https://docs.google.com/presentation/d/109tZhjO1CuVx0aTpQUtv2i9VVj6K52S8r0VWQYqOlyM/edit?usp=sharing[Presentación].
 
 https://goo.gl/photos/up1s3tZuxV2YTm6W8[Albúm de fotografías].
