@@ -1,0 +1,22 @@
++++
+date = "2016-02-20T22:02:28+01:00"
+title = "Workshop: Jenkins Pipeline"
++++
+
+Os echamos de menos. En nuestra primera edición nos lo pasamos https://goo.gl/photos/up1s3tZuxV2YTm6W8[genial], ¿A qué esperamos para repetirlo?.
+
+En esta ocasión hemos cambiado el formato, en lugar de charlas tendremos un workshop de **2 horas** centrado en https://github.com/jenkinsci/workflow-plugin/blob/master/README.md[Jenkins Pipeline]. Que el nombre no os confunda con https://wiki.jenkins-ci.org/display/JENKINS/Build+Pipeline+Plugin[Build Pipeline Plugin].
+
+El workshop será dirigido por http://amunizmartin.com[Antonio Manuel Muñiz] y http://manuelrecena.com[Manuel Recena Soto]. No será necesario tener conocimientos previos sobre este plugin pero sí se recomienda echarle un vistazo a http://groovy-lang.org/syntax.html[Groovy].
+
+
+== Entradas
+
+Por motivos logísticos el número de plazas está limitado a 15. El evento es **gratuito** y puedes reservar tu entrada https://www.koliseo.com/recena/sevilla-jam[aquí].
+
+== Sitio
+
+----
+Avenida República
+Sevilla (España)
+----
