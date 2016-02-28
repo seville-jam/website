@@ -8,3 +8,8 @@
   text-align: right;
   font-size: 0.7rem;
 }
+
+.imageblock img {
+    width: 80%;
+    margin: 0 auto;
+}

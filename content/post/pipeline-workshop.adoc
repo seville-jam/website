@@ -1,5 +1,5 @@
 +++
-date = "2016-02-20T22:02:28+01:00"
+date = "2016-02-28T11:06:53+01:00"
 title = "Workshop: Jenkins Pipeline"
 +++
 
@@ -12,11 +12,15 @@ El workshop será dirigido por http://amunizmartin.com[Antonio Manuel Muñiz] y 
 
 == Entradas
 
-Por motivos logísticos el número de plazas está limitado a 15. El evento es **gratuito** y puedes reservar tu entrada https://www.koliseo.com/recena/sevilla-jam[aquí].
+Anota el **viernes 1 de abril** de 17:00h a 19:00h en tu agenda. Por motivos logísticos el número de plazas está limitado a 20. El evento es **gratuito** y puedes reservar tu entrada https://www.koliseo.com/recena/workshop-jenkins-pipeline[aquí].
 
 == Sitio
 
+Muy agradecidos de que https://bitnami.com[BitNami] nos reciba en sus magníficas oficinas de Sevilla. Sí, tenemos suerte de que esta https://bitnami.com/news/press[empresa internacional] tenga sede en la capital de Andalucía.
+
 ----
-Avenida República
+Avenida República 31 B, 1ª Planta, Módulo A
 Sevilla (España)
 ----
+
+image::/assets/bitnami.png[]
