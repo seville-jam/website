@@ -15,7 +15,7 @@ Anota en tu agenda la siguiente cita: **jueves 31 de marzo** de 18:30h a 20:30h.
 
 == Sitio
 
-Muy agradecidos de que https://bitnami.com[BitNami] nos reciba en sus magníficas oficinas de Sevilla. Sí, tenemos suerte de que esta https://bitnami.com/news/press[empresa internacional] tenga sede en la capital de Andalucía.
+Muy agradecidos de que https://bitnami.com[Bitnami] nos reciba en sus magníficas oficinas de Sevilla. Sí, tenemos suerte de que esta https://bitnami.com/news/press[empresa internacional] tenga sede en la capital de Andalucía.
 
 ----
 Avenida República 31 B, 1ª Planta, Módulo A
