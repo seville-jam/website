@@ -5,7 +5,7 @@ title = "Primera edición"
 
 Hola. Con unos meses de retraso, pero ya estamos aquí para presentar un nuevo https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Area+Meetup[Jenkins Area Meetup].
 
-Esta primera edición tendrá lugar el próximo **21 de enero de 2016** de 17:30 a 21:00. Siendo la primera edición hemos propuesto un formato que podemos variar en futuras ediciones. Lo más importante es reunirnos y aprovechar la oportunidad de intercambiar experiencias en torno a uno de los proyectos opensource más interesantes.
+Esta primera edición tendrá lugar el próximo **21 de enero de 2020** de 17:30 a 21:00. Siendo la primera edición hemos propuesto un formato que podemos variar en futuras ediciones. Lo más importante es reunirnos y aprovechar la oportunidad de intercambiar experiencias en torno a uno de los proyectos opensource más interesantes.
 
 == Agenda
 
